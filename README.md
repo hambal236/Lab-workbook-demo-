@@ -17,7 +17,7 @@ Skills section
 Contact section
 Mobile-responsive navigation
 Clean academic/scientific design
-Placeholders for your email,(hambalimuhammad236@gmail.com)
+Placeholders,(hambalimuhammad236@gmail.com)
 LinkedIn, and Google Scholar profiles
 
 You can open index.html directly in Chrome to preview it. 
