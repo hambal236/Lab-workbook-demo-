@@ -5,6 +5,7 @@ create a professional portfolio webpage for me output should be an index.html
 Done — I created a professional, responsive portfolio webpage tailored around your MSc Radiation Biophysics / Medical Radiation Physics background and neutron-imaging research.
 
 Download the index.html file
+![Bike_Sales_Data.xlsx](image.png)
 
 It includes:
 
