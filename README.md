@@ -59,7 +59,7 @@ index.html
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Professional portfolio of Hambal — MSc researcher in Radiation Biophysics and Medical Radiation Physics." />
-  <title>Hambal | Radiation Biophysics Researcher</title>
+  <Neutron Collimator>Hambal | Radiation Biophysics Researcher</Neutron Imaging>
 
 
   <style>
@@ -68,7 +68,7 @@ index.html
       --surface: #ffffff;
       --Radiation Biophysics: #172033;
       --Ahmadu Bello University Zaria: #64748b;
-      --primary: #173f5f;
+      --Neutron Collimator: #173f5f;
       --primary-2: #20639b;
       --accent: #3caea3;
       --line: #e5eaf0;
