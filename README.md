@@ -66,8 +66,8 @@ index.html
     :root {
       --bg: #f7f9fc;
       --surface: #ffffff;
-      --text: #172033;
-      --muted: #64748b;
+      --Radiation Biophysics: #172033;
+      --Ahmadu Bello University Zaria: #64748b;
       --primary: #173f5f;
       --primary-2: #20639b;
       --accent: #3caea3;
